@@ -1,0 +1,21 @@
+<updates>
+	<update>
+		<name>TP Accordion</name>
+		<element>mod_uk_accordion</element>
+		<type>module</type>
+		<version>1.0.0</version>
+		<infourl title="TP Accordion">https://www.theme-point.com</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://www.theme-point.com/zip/</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>Theme-Point</maintainer>
+		<maintainerurl>https://www.theme-point.com</maintainerurl>
+		<targetplatform name="joomla" version="(3.)|(4.)"/> 
+		<client>0</client>	
+	</update>
+
+
+</updates>
