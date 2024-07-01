@@ -1,10 +1,10 @@
 <updates>
 	<update>
-		<name>UIkit 3 Accordion</name>
-		<element>mod_uk_accordion</element>
+		<name>Article Grid(LoadMore)</name>
+		<element>mod_article_dgrid</element>
 		<type>module</type>
-		<version>1.2.4</version>
-		<infourl title="UIkit 3 Accordion">https://www.joomlaplates.de</infourl>
+		<version>1.2.1</version>
+		<infourl title="Artikel Grid (Load More)">https://www.joomlaplates.de</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://www.joomlaplates.de/zip/</downloadurl>
 		</downloads>

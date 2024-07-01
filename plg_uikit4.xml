@@ -1,10 +1,10 @@
 <updates>
 	<update>
-		<name>UIkit 3 Framework Plugin</name>
-		<element>uikit3</element>
+		<name>UIkit Framework Plugin</name>
+		<element>uikit4</element>
 		<type>plugin</type>
-		<version>3.5.35</version>
-		<infourl title="Uikit 3 Plugin">https://www.joomlaplates.de</infourl>
+		<version>4.0.6</version>
+		<infourl title="Uikit Plugin">https://www.joomlaplates.de</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://www.joomlaplates.de/zip/</downloadurl>
 		</downloads>
@@ -14,7 +14,7 @@
 		<maintainer>Joomlaplates</maintainer>
 		<maintainerurl>https://www.joomlaplates.de</maintainerurl>
 		<section>Updates</section>
-		<targetplatform name="joomla" version="(3.)|(4.)|(5.)"/> 
+		<targetplatform name="joomla" version="(4.)|(5.)"/> 
 		<type>plugin</type>
 		<folder>system</folder>
 		<client>0</client>	

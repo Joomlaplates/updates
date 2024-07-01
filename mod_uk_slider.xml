@@ -1,10 +1,10 @@
 <updates>
 	<update>
-		<name>UIkit 3 Accordion</name>
-		<element>mod_uk_accordion</element>
+		<name>Uikit 3 Slider</name>
+		<element>mod_uk_slider</element>
 		<type>module</type>
-		<version>1.2.4</version>
-		<infourl title="UIkit 3 Accordion">https://www.joomlaplates.de</infourl>
+		<version>1.2.7</version>
+		<infourl title="Uikit 3 Slider">https://www.joomlaplates.de</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://www.joomlaplates.de/zip/</downloadurl>
 		</downloads>
